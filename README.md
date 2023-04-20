@@ -3,7 +3,7 @@ Typing Speed Analyzer is a GUI Interface which is developed using Java. It will 
 --------------------------------------------------------------------<br>
 <br>
 Harshita Himani (12111842), Harshita004<br>
-Ritesh Alakh Singh (12109810)<br>
+Ritesh Alakh Singh (12109810), Ritesh7476<br>
 Sakshi Kumari, (12105394)<br>
 <br>
 --------------------------------------------------------------------<br>
